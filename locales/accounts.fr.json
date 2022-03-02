@@ -116,7 +116,7 @@
     "total_amount": "Montant total",
     "details": "Détails",
     "unable_to_complete_transaction": "Impossible de terminer la transaction",
-    "receive_header": "Recevoir {{code devise}}",
+    "receive_header": "Recevoir {{currencyCode}}",
     "view_address": "Voir l'adresse",
     "view_qr_code": "Voir le code QR",
     "scan_qr_code_to_pay": "Scanner le code QR pour payer",
